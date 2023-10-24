@@ -8,7 +8,7 @@ from pathlib import Path
 # Criando a pasta Relatorios
 pasta_relatorio = Path(r'Projeto/Relatorios').mkdir()
 
-# Cria o CSV Enviar_E-mail
+# Cria o CSV Gerentes_E-mail.csv
 
 lista = {'Gerente':['Maria', 'Lira', 'Guilherme', 'Pedro', 'Júlia', 'Larrisa', 'Sabrina'],
          'E-mail':['user+1@gmail.com', 'user+2@gmail.com', 'user+3@gmail.com', 'user+4@gmail.com', 'user+5@gmail.com', 'user+6@gmail.com', 'user+7@gmail.com'],
