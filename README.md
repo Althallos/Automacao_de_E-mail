@@ -7,7 +7,7 @@ Este projeto simplifica o envio, recebimento e gerenciamento de mensagens, torna
 
 Você Precisa liberar seu E-mail para esse tipo de atividade ( ou criar um E-mail novo)
 https://myaccount.google.com/apppasswords
-# Módulos Usados:
+# Bibliotecas Usados:
 Yagmail
 
 Pywin32
