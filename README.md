@@ -15,7 +15,7 @@ https://www.systoolsgroup.com/imap/
 
 imap_tools:
 https://github.com/ikvk/imap_tools/blob/master/README.rst
-# Módulos Usados:
+# Bibliotecas Usados:
 Yagmail
 
 Pywin32
