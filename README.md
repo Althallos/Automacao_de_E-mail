@@ -9,10 +9,8 @@ Colocar o E-mail do Destinatario no Gerentes_E-Mail.csv
 
 #### Você Precisa liberar seu E-mail para esse tipo de atividade (ou criar um E-mail novo)(Substitui a senha)
 https://myaccount.google.com/apppasswords
-
 #### IMAP Server:
 https://www.systoolsgroup.com/imap/
-
 #### imap_tools:
 https://github.com/ikvk/imap_tools/blob/master/README.rst
 # Bibliotecas Usados:
